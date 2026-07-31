@@ -16,17 +16,19 @@ This LinkedIn post documents the event, its objectives, and the key ideas shared
 
 ## Presentation
 
-The presentation used during the session is available in this repository.
+The session was delivered using a presentation prepared specifically for this event.
 
-- `presentation.pptx`
+In addition to the presentation, students were provided with a supplementary resource document through a QR code. The document consolidated the learning platforms, certifications, and resources discussed during the session, allowing participants to continue exploring them after the event.
 
+The presentation is available in the `presentation/` directory.
 ---
 
 ## Learning Resources Mentioned
 
 The following platforms were introduced during the session as part of the **Learning at No Cost** initiative.
 
-- Coursera
+- Github Student Developer pack ( given them a detailed document regarding this)
+- Coursera (Financial Aid Concept)
 - Infosys Springboard
 - HP LIFE
 - Saylor Academy

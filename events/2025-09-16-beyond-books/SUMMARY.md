@@ -81,6 +81,8 @@ Students were also introduced to several trusted learning platforms, including:
 - Google Learning Resources
 - freeCodeCamp
 
+- A QR code was shared at the end of the session, providing students with a curated document containing free learning platforms, certifications, and additional resources for continued self-learning.
+
 ---
 
 ## Presentation
